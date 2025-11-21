@@ -68,9 +68,11 @@ Stromatopelma calceatum strain 3LF-2263 16S ribosomal RNA gene, partial sequence
 Accession: KR028312.1 GI: 992073989
 
 #REVISAR SI ES EL MISMO GEN
+
 Tapinauchenius violaceus voucher ZSM-A 2017/0056 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
 1,279 bp linear DNA
 Accession: MG273464.1 GI: 1276316100
+
 Ybyrapora diversipes voucher AVIFA3 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
 1,187 bp linear DNA
 Accession: MG273497.1 GI: 1276316133
