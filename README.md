@@ -1,6 +1,6 @@
 # Inferencia filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
-Título, hipótesis, objetivos y cosas como número de especies o muestras a utilizar y métodos- que puede incluir Tipos de Scripts/lenguaje de programación a usar/repositorios clonados, etc
-Objetivo:
+
+##Objetivo:
 Inferir la filogenia molecular mediante el gen mitocontrial 16S 
 
 #lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
@@ -8,7 +8,7 @@ Inferir la filogenia molecular mediante el gen mitocontrial 16S
 Pocock, 1901, Psalmopoeus Pocock, 1895, Stromatopelma Karsch, 1881, Tapinauchenius
 Ausserer, 1871, Typhochlaena C. L. Koch, 1850, Ybyrapora gen. n
 
-#REVISAR SI SON LOS MISMOS GENES
+REVISAR SI SON LOS MISMOS GENES
 Avicularia avicularia voucher AVIFG1SVT 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (nd1) gene, partial cds; mitochondrial
 963 bp linear DNA
 Accession: KX758147.1 GI: 1215699001
