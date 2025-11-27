@@ -1,7 +1,9 @@
 # Inferencia filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
 
 ![20250527_101136](https://github.com/user-attachments/assets/3ccca7b3-4879-40a2-85f3-bb7f3bd6af8c)
+Avicularia avicularia (Madre de Dios)
 
+<img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
 
 ## Objetivo:
 Inferir la filogenia molecular mediante el gen mitocontrial 16S 
