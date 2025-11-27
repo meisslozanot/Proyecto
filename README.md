@@ -1,5 +1,8 @@
 # Inferencia filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
 
+![20250527_101136](https://github.com/user-attachments/assets/3ccca7b3-4879-40a2-85f3-bb7f3bd6af8c)
+
+
 ## Objetivo:
 Inferir la filogenia molecular mediante el gen mitocontrial 16S 
 
