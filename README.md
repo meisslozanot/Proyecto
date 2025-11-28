@@ -1,4 +1,4 @@
-# Exploración filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
+# Exploración filogenética de Avicularinae (Araneae:Theraphosidae) con énfasis en el género Avicularia 
 
 ## Introducción
 
@@ -38,7 +38,7 @@ Inferir la filogenia molecular mediante el gen mitocontrial 16S
 Longhorn & Hamilton (2020)
 
 ## Hipótesis
-La filogena moleculara puede revelar historia evolutiva diferente a la presentada por la morfología
+La filogena molecular puede revelar historia evolutiva diferente a la presentada por la morfología
 
 # Materiales y Métodos
 ## Lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
@@ -117,7 +117,7 @@ Accession: MG273497.1 GI: 1276316133
 4. Edicion de secuencias (Eliminar genes diferentes a 16S)
 5. Eliminar codon 3? (Turner et al., 2018)
 6. Alinear con MAFFT
-7. Generar filogenea molecular con un marcador
+7. Generar filogenia molecular con un marcador
 8. Preparar cebador para mis extracciones
 9. Probar cebador
 
