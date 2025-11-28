@@ -13,11 +13,14 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 ![20250527_104750](https://github.com/user-attachments/assets/eb67f879-ad7e-4250-b5d8-7cbd79f3878c)
 * Tarántulas arborícolas
 * Doce especies en Latinoamérica, 07 en Perú (Fukushima y Bertani, 2017)
+
+<img width="1327" height="1085" alt="image" src="https://github.com/user-attachments/assets/cdec01f2-9ae1-4b7e-b296-e85e701327a4" />
+
 ## Justificación
 * En el 2015 fueron el género más exportado legalmente (Serfor datos no publicados)
-* En Brasil, algunas especies y no se registran (Bertani y Fukushima, 2009)
-* La demanda de estas especies es alta.
-* Las relaciones en Theraposidae (tarantulas) aún no estan resultas.
+* En Brasil, algunas especies ya no se registran en la localidad  (Bertani y Fukushima, 2009)
+* La demanda de estas especies es alta. La oferta legal es superada ampliamente.
+* Las relaciones en Theraposidae (tarántulas) aún no estan resultas.
 * Se ha hecho una filogenia co datos morfológicos. Algunas especies no son congruentes
 
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
@@ -30,6 +33,9 @@ Recopilado por Cifuentes & Perafan (2020)
  
 ## Objetivo:
 Inferir la filogenia molecular mediante el gen mitocontrial 16S 
+
+<img width="1111" height="449" alt="image" src="https://github.com/user-attachments/assets/c0953b3c-4d08-4047-89a5-793972eb844a" />
+Longhorn & Hamilton (2020)
 
 ### lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
 
@@ -106,9 +112,8 @@ Accession: MG273497.1 GI: 1276316133
 # Pipeline
 1. Instalación de Biopython
 2. Adquirir las secuencias NCBI
-3. Eliminar genes diferentes a 16S
-4. Edicion de secuencias
+4. Edicion de secuencias (Eliminar genes diferentes a 16S)
 5. Alinear con MAFFT
-6. Alinear secuencias
+6. Generar filogenea molecular con un marcador
 7. Preparar cebador para mis extracciones
 8. Probar cebador
