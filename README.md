@@ -1,6 +1,6 @@
 # Inferencia filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
 
-##Introducción
+## Introducción
 
 ![20250527_101136](https://github.com/user-attachments/assets/3ccca7b3-4879-40a2-85f3-bb7f3bd6af8c)
 Avicularia avicularia (Madre de Dios)
@@ -9,8 +9,12 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 ![20250526_224954](https://github.com/user-attachments/assets/ba6bf25d-abd7-45f6-bf71-85284d6b0451)
 
 ![20250527_100343](https://github.com/user-attachments/assets/a70628a4-33bb-4efa-ae7c-cb7b2520ee09)
+![20250527_100523](https://github.com/user-attachments/assets/def5adda-ed8e-4a61-9c16-a6cbc7fc6a28)
+![20250527_104750](https://github.com/user-attachments/assets/eb67f879-ad7e-4250-b5d8-7cbd79f3878c)
 
-
+## Justificación
+* En el 2015 fueron el género más exportado legalemente (Serfor datos no publicados)
+* La 
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
 
 Filogénia morfológica de Fukushima y colaboradores (2017)
