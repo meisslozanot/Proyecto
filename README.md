@@ -4,6 +4,7 @@
 Avicularia avicularia (Madre de Dios)
 
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
+
 Filogénia morfológica de Fukushima y colaboradores (2017)
 
 
