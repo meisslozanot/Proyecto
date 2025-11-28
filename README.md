@@ -40,13 +40,12 @@ Longhorn & Hamilton (2020)
 ## Hipótesis
 La filogena moleculara puede revelar historia evolutiva diferente a la presentada por la morfología
 
-### lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
+# Materiales y Métodos
+## Lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
 
  Antillena gen. n., Avicularia Lamarck, 1818, Caribena gen. n., Ephebopus Simon, 1892, Heteroscodra Pocock, 1899, Iridopelma Pocock, 1901, Pachistopelma
 Pocock, 1901, Psalmopoeus Pocock, 1895, Stromatopelma Karsch, 1881, Tapinauchenius
 Ausserer, 1871, Typhochlaena C. L. Koch, 1850, Ybyrapora gen. n
-
-REVISAR SI SON LOS MISMOS GENES
 
 Avicularia avicularia voucher AVIFG1SVT 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (nd1) gene, partial cds; mitochondrial
 963 bp linear DNA
@@ -116,7 +115,7 @@ Accession: MG273497.1 GI: 1276316133
 1. Instalación de Biopython
 2. Adquirir las secuencias NCBI
 4. Edicion de secuencias (Eliminar genes diferentes a 16S)
-5. Eliminar codon 3?
+5. Eliminar codon 3? (Turner et al., 2018)
 6. Alinear con MAFFT
 7. Generar filogenea molecular con un marcador
 8. Preparar cebador para mis extracciones
@@ -128,4 +127,9 @@ Accession: MG273497.1 GI: 1276316133
 <img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/8294eee6-3195-4937-9fd8-58eab7e5c542" />
 Fukushima & Bertani (2017)
 
+# Desafios
+* Filtrar solo 16S
+* Pocas secuencias
+* Puedo perder información ... pero ganar soporte al eliminar el codon 3
+* A futuro, puede que 16S no difierencie poblaciones. La tendencia en el grupo es usar UCEs (Hamilton com pers. a D. Silva), mejor para material de museo (Derkarabetian et l., 2019)
 
