@@ -20,7 +20,7 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 * En el 2015 fueron el género más exportado legalmente (Serfor datos no publicados)
 * En Brasil, algunas especies ya no se registran en la localidad  (Bertani y Fukushima, 2009)
 * La demanda de estas especies es alta. La oferta legal es superada ampliamente.
-* Las relaciones en Theraposidae (tarántulas) aún no estan resultas.
+* Las relaciones en Theraphosidae (tarántulas) aún no estan resultas.
 * Se ha hecho una filogenia co datos morfológicos. Algunas especies no son congruentes
 
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
