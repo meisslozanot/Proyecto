@@ -1,4 +1,4 @@
-# Inferencia filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
+# Exploración filogenética de Avicularinae (Araneae:Theraphosidae) con enfasis en el género Avicularia 
 
 ## Introducción
 
