@@ -11,10 +11,15 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 ![20250527_100343](https://github.com/user-attachments/assets/a70628a4-33bb-4efa-ae7c-cb7b2520ee09)
 ![20250527_100523](https://github.com/user-attachments/assets/def5adda-ed8e-4a61-9c16-a6cbc7fc6a28)
 ![20250527_104750](https://github.com/user-attachments/assets/eb67f879-ad7e-4250-b5d8-7cbd79f3878c)
-
+* Tarántulas arborícolas
+* Doce especies en Latinoamérica, 07 en Perú (Fukushima y Bertani, 2017)
 ## Justificación
-* En el 2015 fueron el género más exportado legalemente (Serfor datos no publicados)
-* La 
+* En el 2015 fueron el género más exportado legalmente (Serfor datos no publicados)
+* En Brasil, algunas especies y no se registran (Bertani y Fukushima, 2009)
+* La demanda de estas especies es alta.
+* Las relaciones en Theraposidae (tarantulas) aún no estan resultas.
+* Se ha hecho una filogenia co datos morfológicos. Algunas especies no son congruentes
+
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
 
 Filogénia morfológica de Fukushima y colaboradores (2017)
