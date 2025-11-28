@@ -37,6 +37,9 @@ Inferir la filogenia molecular mediante el gen mitocontrial 16S
 <img width="1111" height="449" alt="image" src="https://github.com/user-attachments/assets/c0953b3c-4d08-4047-89a5-793972eb844a" />
 Longhorn & Hamilton (2020)
 
+## Hipótesis
+La filogena moleculara puede revelar historia evolutiva diferente a la presentada por la morfología
+
 ### lista de generos incluidos en Avicularinae (Fukushima y Bertani, 2017)
 
  Antillena gen. n., Avicularia Lamarck, 1818, Caribena gen. n., Ephebopus Simon, 1892, Heteroscodra Pocock, 1899, Iridopelma Pocock, 1901, Pachistopelma
@@ -113,7 +116,16 @@ Accession: MG273497.1 GI: 1276316133
 1. Instalación de Biopython
 2. Adquirir las secuencias NCBI
 4. Edicion de secuencias (Eliminar genes diferentes a 16S)
-5. Alinear con MAFFT
-6. Generar filogenea molecular con un marcador
-7. Preparar cebador para mis extracciones
-8. Probar cebador
+5. Eliminar codon 3?
+6. Alinear con MAFFT
+7. Generar filogenea molecular con un marcador
+8. Preparar cebador para mis extracciones
+9. Probar cebador
+
+# Resultados esperados
+* Ver linajes con historia evolutiva diferente, dado que la morfología en hembras es muy conservada dentro de Avicularia
+
+<img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/8294eee6-3195-4937-9fd8-58eab7e5c542" />
+Fukushima & Bertani (2017)
+
+
