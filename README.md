@@ -24,7 +24,9 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 
 Filogénia morfológica de Fukushima y colaboradores (2017)
 
-
+<img width="710" height="487" alt="image" src="https://github.com/user-attachments/assets/e83393d4-85ea-4adc-b419-b34b5d2460fc" />
+<img width="708" height="478" alt="image" src="https://github.com/user-attachments/assets/cf3ff070-2eec-49a6-a9e7-8b24854d1b24" />
+Recopilado por Cifuentes & Perafan (2020)
  
 ## Objetivo:
 Inferir la filogenia molecular mediante el gen mitocontrial 16S 
@@ -93,8 +95,6 @@ Stromatopelma calceatum strain 3LF-2263 16S ribosomal RNA gene, partial sequence
 251 bp linear DNA
 Accession: KR028312.1 GI: 992073989
 
-#REVISAR SI ES EL MISMO GEN
-
 Tapinauchenius violaceus voucher ZSM-A 2017/0056 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
 1,279 bp linear DNA
 Accession: MG273464.1 GI: 1276316100
@@ -102,3 +102,13 @@ Accession: MG273464.1 GI: 1276316100
 Ybyrapora diversipes voucher AVIFA3 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
 1,187 bp linear DNA
 Accession: MG273497.1 GI: 1276316133
+
+# Pipeline
+1. Instalación de Biopython
+2. Adquirir las secuencias NCBI
+3. Eliminar genes diferentes a 16S
+4. Edicion de secuencias
+5. Alinear con MAFFT
+6. Alinear secuencias
+7. Preparar cebador para mis extracciones
+8. Probar cebador
