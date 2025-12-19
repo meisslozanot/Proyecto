@@ -25,6 +25,11 @@ Puede encontrarse en palmeras, tambien en construcciones humanas
 
 <img width="604" height="695" alt="image" src="https://github.com/user-attachments/assets/6d0a41c7-e051-4409-925b-ecab70ede980" />
 
+Trabajos moleculares han relevado nuevos linajes, incluso en especies muy exportadas
+
+<img width="960" height="590" alt="image" src="https://github.com/user-attachments/assets/731369f1-f849-4fb7-9b86-61d03d960272" />
+
+
 Filogénia morfológica de Fukushima y colaboradores (2017)
 
 <img width="710" height="487" alt="image" src="https://github.com/user-attachments/assets/e83393d4-85ea-4adc-b419-b34b5d2460fc" />
