@@ -139,12 +139,20 @@ Accession: MG273497.1 GI: 1276316133
 
 * Ver linajes con historia evolutiva diferente, dado que la morfología en hembras es muy conservada dentro de Avicularia
 
+## Elaboracion de Primers
+Primer-BLAST (NCBI)
+<img width="2000" height="721" alt="image" src="https://github.com/user-attachments/assets/2da78891-027d-45b7-be77-a3e5f51fded1" />
+
+Elección de Primer
+<img width="2025" height="891" alt="image" src="https://github.com/user-attachments/assets/f7300bda-4c18-42ea-b64e-ba433afb7923" />
+
+## Probar el Primer
+<img width="785" height="730" alt="image" src="https://github.com/user-attachments/assets/5220f5fc-bab3-4294-8734-ea41304fdff7" />
+
+# Discusion
+
 <img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/8294eee6-3195-4937-9fd8-58eab7e5c542" />
+
 Fukushima & Bertani (2017)
 
-# Desafios
-* Filtrar solo 16S
-* Pocas secuencias
-* Puedo perder información ... pero ganar soporte al eliminar el codon 3
-* A futuro, puede que 16S no difierencie poblaciones. La tendencia en el grupo es usar UCEs (Hamilton com pers. a D. Silva), mejor para material de museo (Derkarabetian et l., 2019)
 
