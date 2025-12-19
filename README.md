@@ -123,12 +123,20 @@ Accession: MG273497.1 GI: 1276316133
 2. Adquirir las secuencias NCBI
 4. Edicion de secuencias (Eliminar genes diferentes a 16S)
 5. Eliminar codon 3? (Turner et al., 2018)
-6. Alinear con MAFFT
+6. Alinear con CLUSTAL
 7. Generar filogenia molecular con un marcador
 8. Preparar cebador para mis extracciones
 9. Probar cebador
 
-# Resultados esperados
+# Resultados 
+## Modelo de sustitución
+<img width="2000" height="197" alt="image" src="https://github.com/user-attachments/assets/37c14271-2a92-4dac-b25f-0f87abaa6e47" />
+
+## Modelo maxima verosimilitud
+
+<img width="883" height="677" alt="image" src="https://github.com/user-attachments/assets/b601efc5-917e-45d3-a0f6-020f0c98b9c3" />
+
+
 * Ver linajes con historia evolutiva diferente, dado que la morfología en hembras es muy conservada dentro de Avicularia
 
 <img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/8294eee6-3195-4937-9fd8-58eab7e5c542" />
