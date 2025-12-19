@@ -29,6 +29,7 @@ Filogénia morfológica de Fukushima y colaboradores (2017)
 
 <img width="710" height="487" alt="image" src="https://github.com/user-attachments/assets/e83393d4-85ea-4adc-b419-b34b5d2460fc" />
 <img width="708" height="478" alt="image" src="https://github.com/user-attachments/assets/cf3ff070-2eec-49a6-a9e7-8b24854d1b24" />
+
 Recopilado por Cifuentes & Perafan (2020)
 
 
