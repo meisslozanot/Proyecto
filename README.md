@@ -144,7 +144,7 @@ Primer-BLAST (NCBI)
 <img width="2000" height="721" alt="image" src="https://github.com/user-attachments/assets/2da78891-027d-45b7-be77-a3e5f51fded1" />
 
 Elección de Primer
-<img width="2025" height="891" alt="image" src="https://github.com/user-attachments/assets/f7300bda-4c18-42ea-b64e-ba433afb7923" />
+<img width="2000" height="170" alt="image" src="https://github.com/user-attachments/assets/c7ca8350-8661-4b42-9454-59d18fb111f3" />
 
 ## Probar el Primer
 <img width="785" height="730" alt="image" src="https://github.com/user-attachments/assets/5220f5fc-bab3-4294-8734-ea41304fdff7" />
